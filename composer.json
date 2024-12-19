@@ -1,0 +1,16 @@
+{
+  "name": "tim-oetting/lucide-php",
+  "description": "A modern PHP package for Lucide icons",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "TimOetting\\LucidePhp\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
